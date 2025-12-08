@@ -171,16 +171,19 @@ Classic arcade games implemented in Python including Snake Game with smooth mech
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=widgetwalker&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=widgetwalker&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=widgetwalker&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" alt="Top Languages"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=widgetwalker&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9)
+<br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=widgetwalker&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7)
+<img src="https://streak-stats.demolab.com/?user=widgetwalker&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak"/>
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=widgetwalker&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=C9D1D9)
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=widgetwalker&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=C9D1D9" alt="Contribution Graph"/>
 
 ### 🏅 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=widgetwalker&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
+<img src="https://github-profile-trophy.vercel.app/?username=widgetwalker&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
 
 </div>
 
