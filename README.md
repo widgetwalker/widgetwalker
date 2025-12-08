@@ -165,25 +165,47 @@ Classic arcade games implemented in Python including Snake Game with smooth mech
 
 </div>
 
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=widgetwalker&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=widgetwalker&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" alt="Top Languages"/>
+### 📈 My GitHub Journey
+
+![Profile Views](https://komarev.com/ghpvc/?username=widgetwalker&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+
+<br/>
+
+| 📊 Metric | 📈 Value |
+|-----------|----------|
+| **Total Repositories** | 13 Public Projects |
+| **Total Contributions** | 42+ Commits |
+| **Stars Received** | ⭐ 2 Stars |
+| **Active Since** | May 2022 |
 
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=widgetwalker&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=widgetwalker&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=C9D1D9" alt="Contribution Graph"/>
 
+<br/>
+
 ### 🏅 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=widgetwalker&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+
+<br/>
+
+### 💻 Primary Tech Stack
+
+| Language | Usage | Projects |
+|----------|-------|----------|
+| 🐍 **Python** | AI/ML, Data Science, Automation | 8+ projects |
+| 💻 **TypeScript** | Web Development, React | 3+ projects |
+| 🎯 **Dart** | Flutter Mobile Apps | 1 project |
+| ⚙️ **C/C++** | Embedded Systems, IoT | Multiple |
+| 🌐 **HTML/JS** | Web Development | 2+ projects |
 
 </div>
 
