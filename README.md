@@ -228,6 +228,37 @@ Classic arcade games implemented in Python including Snake Game with smooth mech
 
 ---
 
+## 🌈 Project Highlights
+
+<div align="center">
+
+```mermaid
+mindmap
+  root((Widget
+    Walker))
+    AI & ML
+      Image Caption
+      Fraud Detection
+      Theft Detection
+      AI Chatbot
+    3D Graphics
+      3D Viewer
+      Blender Art
+      Game Assets
+    Web Development
+      Portfolio Site
+      Nazma Trust
+      Library System
+    IoT & Tools
+      AirSense5G
+      Personal Financer
+      Simple Games
+```
+
+</div>
+
+---
+
 ## 💡 What I'm Currently Working On
 
 - 🤖 **AI & ML**: LLM Fine-tuning, Computer Vision Projects, NLP Applications
