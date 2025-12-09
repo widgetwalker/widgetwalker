@@ -232,28 +232,47 @@ Classic arcade games implemented in Python including Snake Game with smooth mech
 
 <div align="center">
 
-```mermaid
-mindmap
-  root((Widget
-    Walker))
-    AI & ML
-      Image Caption
-      Fraud Detection
-      Theft Detection
-      AI Chatbot
-    3D Graphics
-      3D Viewer
-      Blender Art
-      Game Assets
-    Web Development
-      Portfolio Site
-      Nazma Trust
-      Library System
-    IoT & Tools
-      AirSense5G
-      Personal Financer
-      Simple Games
-```
+### 🎯 Explore My Work Across Multiple Domains
+
+<br/>
+
+### 🤖 AI & Machine Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=flat-square)
+
+**📸 Image Caption** • **🔐 Fraud Detection** • **👁️ Theft Detection** • **💬 AI Chatbot**
+
+<br/>
+
+### 🎨 3D Graphics & Animation
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+![Maya](https://img.shields.io/badge/Maya-37A5CC?style=flat-square&logo=autodesk&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white)
+
+**🎮 3D Viewer** • **🌌 Blender Art** • **🎯 Game Assets**
+
+<br/>
+
+### 🌐 Web Development
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+**💼 Portfolio Site** • **🙏 Nazma Trust** • **📚 Library System**
+
+<br/>
+
+### 🔧 IoT & Utility Tools
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-00979D?style=flat-square&logo=iot&logoColor=white)
+
+**📱 AirSense5G** • **💰 Personal Financer** • **🎮 Simple Games**
+
+<br/>
+
+![Divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 </div>
 
