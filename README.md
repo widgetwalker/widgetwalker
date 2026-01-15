@@ -110,12 +110,7 @@ Classic arcade games implemented in Python including Snake Game with smooth mech
 
 <br/>
 
-| 📊 Metric | 📈 Value |
-|-----------|----------|
-| **Total Repositories** | 13 Public Projects |
-| **Total Contributions** | 42+ Commits |
-| **Stars Received** | ⭐ 2 Stars |
-| **Active Since** | May 2022 |
+[![WidgetWalker's GitHub Stats](https://github-readme-stats.vercel.app/api?username=widgetwalker&show_icons=true&theme=tokyonight&count_private=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
@@ -143,8 +138,6 @@ Classic arcade games implemented in Python including Snake Game with smooth mech
 | 🌐 **HTML/JS** | Web Development | 2+ projects |
 
 </div>
-
----
 
 ## 🎯 Skills Matrix
 
