@@ -252,4 +252,14 @@ Classic arcade games implemented in Python including Snake Game with smooth mech
   <i>💻 Built with ❤️ by Widget-Walker</i>
 </p>
 
+---
+
+### 🤝 Contributors & Collaborators
+
+<a href="https://github.com/widgetwalker/widgetwalker/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=widgetwalker/widgetwalker" />
+</a>
+
+*Special thanks to the open-source community for inspiration and collaboration!*
+
 </div>
