@@ -49,7 +49,10 @@ me.say_hi()
 
 <br/><br/>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=widgetwalker&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak"/></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=widgetwalker&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7">
+  <img src="https://streak-stats.demolab.com?user=widgetwalker&theme=default&hide_border=true" alt="GitHub Streak"/>
+</picture>
 
 <br/><br/>
 
@@ -58,7 +61,10 @@ me.say_hi()
 <br/>
 
 ### 🏅 GitHub Trophies
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=widgetwalker&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="GitHub Trophies"/></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=widgetwalker&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1&column=6">
+  <img src="https://github-profile-trophy.vercel.app/?username=widgetwalker&theme=flat&no-frame=true&margin-w=4&row=1&column=6" alt="GitHub Trophies"/>
+</picture>
 
 </div>
 
