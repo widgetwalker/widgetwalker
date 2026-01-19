@@ -180,18 +180,14 @@ Classic arcade games implemented in Python including Snake Game with smooth mech
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white)
 
 **🎮 3D Viewer** • **🌌 Blender Art** • **🎯 Game Assets**
-
 <br/>
-
 ### 🌐 Web Development
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 **💼 Portfolio Site** • **🙏 Nazma Trust** • **📚 Library System**
-
 <br/>
-
 ### 🔧 IoT & Utility Tools
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
