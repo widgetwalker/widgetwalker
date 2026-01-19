@@ -125,9 +125,7 @@ Classic arcade games implemented in Python including Snake Game with smooth mech
 
 ### 🏅 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=widgetwalker&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
-
 <br/>
-
 ### 💻 Primary Tech Stack
 
 | Language | Usage | Projects |
@@ -162,18 +160,14 @@ Classic arcade games implemented in Python including Snake Game with smooth mech
 <div align="center">
 
 ### 🎯 Explore My Work Across Multiple Domains
-
 <br/>
-
 ### 🤖 AI & Machine Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=flat-square)
 
 **📸 Image Caption** • **🔐 Fraud Detection** • **👁️ Theft Detection** • **💬 AI Chatbot**
-
 <br/>
-
 ### 🎨 3D Graphics & Animation
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
 ![Maya](https://img.shields.io/badge/Maya-37A5CC?style=flat-square&logo=autodesk&logoColor=white)
